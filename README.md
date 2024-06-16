@@ -6,6 +6,11 @@
 ## Sobre
 Cursando Engenharia de Computação na UFGD | Técnico de Informática para Internet | Web Developer | Designer
 
+![Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=leandro-sobreira&show_icons=true&locale=pt-br&rank_icon=github&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandro-sobreira&layout=compact&locale=pt-br&theme=dark)
+
+
 ## Minhas Skills
 ![HTMS5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=whitee)
